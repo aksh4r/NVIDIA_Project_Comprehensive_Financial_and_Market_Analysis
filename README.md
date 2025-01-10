@@ -30,7 +30,7 @@ This project provides an in-depth analysis of NVIDIA’s financial performance a
 
 - Microsoft Excel: Processed financial and share price data for analysis.
 - Python: Conducted statistical computations and created visualizations.
-- Data Sources: Leveraged reliable market and financial datasets for accuracy.
+- Data Sources: Leveraged reliable market and financial datasets such as yahoo finance for accuracy.
 
 ---
 
