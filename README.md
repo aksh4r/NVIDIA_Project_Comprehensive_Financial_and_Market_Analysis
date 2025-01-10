@@ -65,6 +65,5 @@ This project provides an in-depth analysis of NVIDIA’s financial performance a
 
 ## Folders
 
-- Data: Contains financial datasets and processed outputs (not included due to confidentiality).
-- Analysis: Screenshots of visualizations and supporting calculations.
-- Client Deliverables: Final report exported as a PDF summarizing the findings and recommendations.
+- Final Report: Contains financial datasets and processed outputs.
+- Visualizations: Screenshots of visualizations and supporting calculations.
