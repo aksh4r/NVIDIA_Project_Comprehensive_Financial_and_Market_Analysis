@@ -2,8 +2,6 @@
 
 This project provides an in-depth analysis of NVIDIA’s financial performance and market trends, focusing on key metrics such as share price behavior, profitability, and EBITDA growth. Utilizing Excel and Python, this analysis delivers actionable insights for stakeholders, guiding strategic investment decisions.
 
----
-
 ## Key Aspects of the Project
 
 ### 1. Share Price Analysis
@@ -70,5 +68,3 @@ This project provides an in-depth analysis of NVIDIA’s financial performance a
 - Data: Contains financial datasets and processed outputs (not included due to confidentiality).
 - Analysis: Screenshots of visualizations and supporting calculations.
 - Client Deliverables: Final report exported as a PDF summarizing the findings and recommendations.
-
-This analysis highlights NVIDIA’s financial resilience, growth trajectory, and strong market position, making it a compelling case for long-term investment. Let me know if you’d like further refinements or additional details!
